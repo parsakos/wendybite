@@ -81,7 +81,8 @@ html {
 
 .h11 {
 	font-family: arial;
-	font-weight: 500;
+	font-weight: 700;
+	font-size: 20px;
 }
 
 
@@ -103,5 +104,32 @@ body {
 	margin-right: 0;
 	padding-right: 0;
 }
+
+
+.subhead {
+	font-family: arial;
+	font-weight: 500;
+	font-size: 15px;
+	color: #c9c9c9;
+}
+
+.bullets {
+	list-style-type: square;
+	font-family: arial;
+	font-size: 15px;
+	font-weight: 500;
+}
+
+.resumetext {
+	font-family: georgia;
+	font-size: 14px;
+	color: #c9c9c9;
+	margin-top: 3px;
+}
+
+.years { 
+	font-size: 23px; 
+
+
 
 
